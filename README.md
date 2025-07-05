@@ -1,4 +1,3 @@
-```
 📦 Projeto: Exercício Collections em Java
 
 📌 Descrição:
